@@ -21,9 +21,9 @@
 ---
 
 ## Current projects
-- [AI-powered Video/Audio Studio](https://ezstudio.ai)
-- [LLM translate chrome extension](https://chromewebstore.google.com/detail/ahlibmildbganmkdhokbkfanpaakpgfd?utm_source=item-share-cb)
-- [AI-powered quizes platform](https://ezquiz.online)
+- [EZStudio: AI-powered Video/Audio Studio](https://ezstudio.ai)
+- [EZTranslate: Free AI translate chrome extension](https://chromewebstore.google.com/detail/ahlibmildbganmkdhokbkfanpaakpgfd?utm_source=item-share-cb)
+- [EZQuiz: AI-powered quizes platform](https://ezquiz.online)
 
 ---
 
