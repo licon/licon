@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=licon&color=blue" alt="Profile Views" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Birth_Year-1991-pink" alt="Birth Year" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Learning-AI-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Job_Status-Actively_Seeking-brightgreen" alt="Job Status" style="height: 25px; vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Job_Status-Starting_A_business-brightgreen" alt="Starting A business" style="height: 25px; vertical-align: middle;"/>
 </p>
 
 # 👋 Hi, I'm Licon
@@ -14,13 +14,14 @@
 ## 👦 About Me
 - 👩‍💻 Fullstack Developer
 - 🔭 Currently solo working on **AI-powered platforms**  
-- 🌱 Exploring **LLM applications**, **Smart Speaker Assistants**  
-- 💡 Passionate about bridging **AI technology** and **real-world manufacturing**  
+- 🌱 Exploring **LLM applications**, **Smart Assistants**  
+- 💡 Passionate about bridging **AI technology** and **real-world**  
 - 📫 Reach me at: [licon.ye@gmail.com]  
 
 ---
 
 ## Current projects
+- [AI-powered Video/Audio Studio](https://ezstudio.ai)
 - [LLM translate chrome extension](https://chromewebstore.google.com/detail/ahlibmildbganmkdhokbkfanpaakpgfd?utm_source=item-share-cb)
 - [AI-powered quizes platform](https://ezquiz.online)
 
