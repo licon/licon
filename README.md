@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=licon&color=blue" alt="Profile Views" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Birth_Year-1991-pink" alt="Birth Year" style="height: 25px; vertical-align: middle;"/>
   <img src="https://img.shields.io/badge/Learning-AI-yellow" alt="Learning" style="height: 25px; vertical-align: middle;"/>
-  <img src="https://img.shields.io/badge/Job_Status-Starting_A_business-brightgreen" alt="Starting A business" style="height: 25px; vertical-align: middle;"/>
+  <img src="https://img.shields.io/badge/Job_Status-Running_A_Startup-brightgreen" alt="Running A Startup" style="height: 25px; vertical-align: middle;"/>
 </p>
 
 # 👋 Hi, I'm Licon
